@@ -4,15 +4,15 @@
 
 Me chamo João Tomé, tenho 21 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIJORGE. Sou amante da tecnologia e um eterno aprendiz!
 
-<a align="left" 
+<a 
+    href="https://www.linkedin.com/in/joaotomesz/"><img align="left" 
     width="60px"
-    style="padding-right: 10px;"
-    href="https://www.linkedin.com/in/joaotomesz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    style="padding-right: 10px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<a align="left" 
+<a 
+    href="mailto:joaocarlos8221@gmail.com"><img align="left" 
     width="60px"
-    style="padding-right: 10px;"
-    href="mailto:joaocarlos8221@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    style="padding-right: 10px;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ### 🤖 Linguagens e Tecnologias
 
