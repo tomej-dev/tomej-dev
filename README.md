@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Fullstack`**
 
-Me chamo João Tomé, tenho 21 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIJORGE. Sou amante da tecnologia e um eterno aprendiz!
+Me chamo João Tomé, tenho 22 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIJORGE. Sou amante da tecnologia e um eterno aprendiz!
 
 <a 
     href="https://www.linkedin.com/in/joaotomesz/"><img align="left" 
